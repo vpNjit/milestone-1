@@ -17,7 +17,7 @@ I finally configured the superuser as follows:
 	
 ## The Results
 ### Login page
-![Login](login page.PNG)
+![Login](login_page.PNG)
 
 ### Dashboard
 ![Dashboard](dashboard.PNG)
